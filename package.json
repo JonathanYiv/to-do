@@ -1,0 +1,22 @@
+{
+  "name": "to-do",
+  "version": "1.0.0",
+  "description": "an implementation of a to-do list in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonathanYiv/to-do.git"
+  },
+  "author": "Jonathan Yiv <JonathanYiv@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JonathanYiv/to-do/issues"
+  },
+  "homepage": "https://github.com/JonathanYiv/to-do#readme",
+  "dependencies": {
+    "webpack": "^4.5.0"
+  }
+}
