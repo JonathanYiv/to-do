@@ -13,7 +13,9 @@ Screenshot here...
 ## Pre-Project Thoughts
 
 I would like to put some more effort into this project than normal because:
+
 A) I need to practice JavaScript. There's a lot of concepts and functions and my irregular practice has made me feel unsteady.
+
 B) I'd like to play around with what the last lesson introduced: Object Role Stereotypes. (Which is apparently under the umbrella of responsibility-driven development now).
 
 Some other fun things to add:
