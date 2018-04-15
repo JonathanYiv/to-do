@@ -4,6 +4,7 @@ This project is to practice JavaScript by implementing a To Do webapp with the f
 * Projects
 * Projects have Tasks
 * Tasks have Titles, Descriptions, Due Dates, Priority Levels
+* Tasks and Projects can be modified and deleted
 * Data is stored in LocalStorage
 
 This is a project from [The Odin Project](https://www.theodinproject.com/courses/javascript/lessons/todo-list).
